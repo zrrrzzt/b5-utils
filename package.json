@@ -1,0 +1,26 @@
+{
+  "name": "b5-utils",
+  "version": "1.0.0",
+  "description": "Collection of tools for b5",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrrrzzt/b5-utils.git"
+  },
+  "keywords": [],
+  "author": "Geir Gåsodden <geir.gasodden@pythonia.no> (https://github.com/zrrrzzt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zrrrzzt/b5-utils/issues"
+  },
+  "homepage": "https://github.com/zrrrzzt/b5-utils#readme",
+  "dependencies": {
+    "@alheimsins/b5-50-ipip-neo-pi-r": "3.0.0",
+    "@alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r": "3.2.0",
+    "@alheimsins/b5-johnson-120-ipip-neo-pi-r": "5.2.0"
+  }
+}
