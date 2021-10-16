@@ -22,7 +22,7 @@
   "dependencies": {
     "@alheimsins/b5-50-ipip-neo-pi-r": "4.0.1",
     "@alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r": "4.0.0",
-    "@alheimsins/b5-johnson-120-ipip-neo-pi-r": "5.2.9"
+    "@alheimsins/b5-johnson-120-ipip-neo-pi-r": "6.0.4"
   },
   "devDependencies": {
     "standard": "16.0.4"
