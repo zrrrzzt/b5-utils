@@ -25,6 +25,6 @@
     "@alheimsins/b5-johnson-120-ipip-neo-pi-r": "6.0.4"
   },
   "devDependencies": {
-    "standard": "16.0.4"
+    "standard": "17.0.0"
   }
 }
